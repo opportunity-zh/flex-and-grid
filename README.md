@@ -11,4 +11,4 @@ Das Repo hängt mit den Übungen im Google Drive zusammen. Du findest die Übung
 5. Wenn nein - installiere sie
 6. Wenn ja, klicke rechts unten auf: **Go Live**
 7. Die Seite öffnet sich im Browser
-8. Schreibe deinen CSS Code im style.css - bei jedem speichern wird die Seite automatisch neu geladen
+8. **Schreibe deinen CSS Code im style.css** - bei jedem speichern wird die Seite automatisch neu geladen
